@@ -18,7 +18,6 @@ class Stack():
         if not self.is_empty():
             return self.items[-1]    
         
-        
 myStack = Stack()
 myStack.push("A")
 print(myStack.list_items())
