@@ -9,7 +9,7 @@ class Stack():
         return self.items.pop()
     
     def is_empty(self):
-        self.items == []
+        return self.items == []
     
     def list_items(self):
         return self.items
@@ -18,13 +18,13 @@ class Stack():
         if not self.is_empty():
             return self.items[-1]    
         
-myStack = Stack()
-myStack.push("A")
-print(myStack.list_items())
-myStack.push("B")
-print(myStack.list_items())
-myStack.pop()
-print(myStack.list_items())
-print(myStack.top_item())
+# myStack = Stack()
+# myStack.push("A")
+# print(myStack.list_items())
+# myStack.push("B")
+# print(myStack.list_items())
+# myStack.pop()
+# print(myStack.list_items())
+# print(myStack.top_item())
 
         
