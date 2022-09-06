@@ -1,7 +1,6 @@
 from inspect import stack
 from stacks.stack import Stack
 open_brackets = ["{", "[", "("]
-closed_brakets = ["}", "]", ")"]
 
 def valiate_brackets(string):
     balanced = 'true'
