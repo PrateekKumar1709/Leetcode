@@ -17,3 +17,6 @@ def convert_int_to_bin(dec_num):
         bin_num += str(s.pop())
 
     return bin_num
+
+binary = convert_int_to_bin(120)
+[print(binary)]
