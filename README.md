@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 ## Tree
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0250-count-univalue-subtrees](https://github.com/PrateekKumar1709/Leetcode/tree/master/0250-count-univalue-subtrees) |
+| [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0250-count-univalue-subtrees](https://github.com/PrateekKumar1709/Leetcode/tree/master/0250-count-univalue-subtrees) |
+| [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/PrateekKumar1709/Leetcode/tree/master/0065-valid-number) |
+| [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 ## Dynamic Programming
 |  |
 | ------- |
