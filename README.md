@@ -149,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Math
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
