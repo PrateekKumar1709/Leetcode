@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/PrateekKumar1709/Leetcode/tree/master/0065-valid-number) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 | [2727-number-of-senior-citizens](https://github.com/PrateekKumar1709/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/PrateekKumar1709/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
