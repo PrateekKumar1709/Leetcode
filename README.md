@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekKumar1709/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
