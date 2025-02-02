@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2727-number-of-senior-citizens](https://github.com/PrateekKumar1709/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Graph
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
