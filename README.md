@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrateekKumar1709/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/PrateekKumar1709/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrateekKumar1709/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrateekKumar1709/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrateekKumar1709/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
