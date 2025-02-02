@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekKumar1709/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrateekKumar1709/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrateekKumar1709/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/PrateekKumar1709/Leetcode/tree/master/0065-valid-number) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 | [2727-number-of-senior-citizens](https://github.com/PrateekKumar1709/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrateekKumar1709/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
