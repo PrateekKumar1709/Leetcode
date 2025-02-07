@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrateekKumar1709/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrateekKumar1709/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrateekKumar1709/Leetcode/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/PrateekKumar1709/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/PrateekKumar1709/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekKumar1709/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PrateekKumar1709/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
