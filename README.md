@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/PrateekKumar1709/Leetcode/tree/master/0065-valid-number) |
+| [0091-decode-ways](https://github.com/PrateekKumar1709/Leetcode/tree/master/0091-decode-ways) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 | [2727-number-of-senior-citizens](https://github.com/PrateekKumar1709/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrateekKumar1709/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/PrateekKumar1709/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekKumar1709/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
