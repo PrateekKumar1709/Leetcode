@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/PrateekKumar1709/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Array
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
 | [1138-grumpy-bookstore-owner](https://github.com/PrateekKumar1709/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/PrateekKumar1709/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/PrateekKumar1709/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
