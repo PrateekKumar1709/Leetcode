@@ -1,43 +1,44 @@
 from collections import deque
 class Solution:
     def shortestPath(self, grid: List[List[int]], k: int) -> int:
-        if not grid:
+        # Edge cases
+        if not grid or not grid[0]:
             return -1
-            
-        rows, cols = len(grid), len(grid[0])
         
-        # If k is large enough, we can go in Manhattan distance
-        if k >= rows + cols - 2:
-            return rows + cols - 2
+        m, n = len(grid), len(grid[0])
         
-        # (row, col, obstacles_remaining)
-        queue = deque([(0, 0, k)])
+        # If k is large enough, we can go directly
+        if k >= m + n - 2:
+            return m + n - 2
+        
+        # BFS queue: (row, col, obstacles_remaining, steps)
+        queue = deque([(0, 0, k, 0)])
+        # Visited set: (row, col, obstacles_remaining)
         visited = {(0, 0, k)}
-        steps = 0
+        
+        # All possible directions: right, down, left, up
         directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
         
         while queue:
-            level_size = len(queue)
+            row, col, obstacles, steps = queue.popleft()
             
-            for _ in range(level_size):
-                row, col, remaining = queue.popleft()
+            # Check if reached destination
+            if row == m - 1 and col == n - 1:
+                return steps
+            
+            # Try all four directions
+            for dx, dy in directions:
+                new_row, new_col = row + dx, col + dy
                 
-                if row == rows - 1 and col == cols - 1:
-                    return steps
-                
-                for dx, dy in directions:
-                    new_row, new_col = row + dx, col + dy
+                # Check if new position is valid
+                if (0 <= new_row < m and 0 <= new_col < n):
+                    new_obstacles = obstacles - grid[new_row][new_col]
+                    new_state = (new_row, new_col, new_obstacles)
                     
-                    if (0 <= new_row < rows and 
-                        0 <= new_col < cols):
-                        
-                        new_remaining = remaining - grid[new_row][new_col]
-                        state = (new_row, new_col, new_remaining)
-                        
-                        if new_remaining >= 0 and state not in visited:
-                            visited.add(state)
-                            queue.append(state)
-            
-            steps += 1
+                    # If we can move to this position and haven't visited it
+                    if new_obstacles >= 0 and new_state not in visited:
+                        visited.add(new_state)
+                        queue.append((new_row, new_col, new_obstacles, steps + 1))
         
         return -1
+
