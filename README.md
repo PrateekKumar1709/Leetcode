@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0250-count-univalue-subtrees](https://github.com/PrateekKumar1709/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0971-shortest-bridge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0971-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0971-shortest-bridge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0971-shortest-bridge) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/PrateekKumar1709/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Array
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
+| [0971-shortest-bridge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0971-shortest-bridge) |
 | [1138-grumpy-bookstore-owner](https://github.com/PrateekKumar1709/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/PrateekKumar1709/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/PrateekKumar1709/Leetcode/tree/master/0079-word-search) |
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
+| [0971-shortest-bridge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0971-shortest-bridge) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/PrateekKumar1709/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
