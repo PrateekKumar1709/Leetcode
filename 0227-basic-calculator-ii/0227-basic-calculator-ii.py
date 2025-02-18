@@ -1,51 +1,39 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        # Helper function to perform arithmetic operations
-        def apply_op(op, b, a):
-            if op == '+': return a + b
-            if op == '-': return a - b
-            if op == '*': return a * b
-            if op == '/': return int(a / b)  # Integer division truncating toward zero
+        # Check for empty string
+        if not s:
+            return 0
         
-        # Helper function to get operator precedence
-        def precedence(op):
-            if op in {'+', '-'}:
-                return 1
-            if op in {'*', '/'}:
-                return 2
-            return 0  # For '('
+        # Initialize variables
+        currentNumber = 0  # Current number being processed
+        lastNumber = 0    # Last number after applying operation
+        result = 0        # Running result
+        sign = '+'       # Current operation sign
         
-        # Initialize stacks for numbers and operators
-        num_stack = []
-        op_stack = []
-        
-        i = 0
-        while i < len(s):
-            if s[i].isspace():
-                i += 1
-                continue
+        # Process each character
+        for i in range(len(s)):
+            currentChar = s[i]
             
-            if s[i].isdigit():
-                # Accumulate digits to form a number
-                num = 0
-                while i < len(s) and s[i].isdigit():
-                    num = num * 10 + int(s[i])
-                    i += 1
-                num_stack.append(num)
-                continue
+            # If current character is digit, build number
+            if currentChar.isdigit():
+                currentNumber = (currentNumber * 10) + int(currentChar)
             
-            if s[i] in {'+', '-', '*', '/'}:
-                # Process operators based on precedence
-                while op_stack and precedence(op_stack[-1]) >= precedence(s[i]):
-                    num_stack.append(apply_op(op_stack.pop(), num_stack.pop(), num_stack.pop()))
-                op_stack.append(s[i])
-            
-            i += 1
+            # If current character is operator or last character, process operation
+            if (not currentChar.isdigit() and not currentChar.isspace()) or i == len(s) - 1:
+                # Process based on previous sign
+                if sign == '+' or sign == '-':
+                    result += lastNumber
+                    lastNumber = currentNumber if sign == '+' else -currentNumber
+                elif sign == '*':
+                    lastNumber = lastNumber * currentNumber
+                elif sign == '/':
+                    # Handle division (ensure integer division matches C++)
+                    lastNumber = int(lastNumber / currentNumber)
+                
+                # Update sign and reset currentNumber
+                sign = currentChar
+                currentNumber = 0
         
-        # Process any remaining operators
-        while op_stack:
-            num_stack.append(apply_op(op_stack.pop(), num_stack.pop(), num_stack.pop()))
-        
-        # The final result is the only item left in the number stack
-        return num_stack[0]
-
+        # Add final number
+        result += lastNumber
+        return result
