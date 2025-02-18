@@ -26,4 +26,3 @@ class Solution:
         
         # Return -1 if destination not reachable, else return cost
         return distances[dst] if distances[dst] != float('inf') else -1
-
