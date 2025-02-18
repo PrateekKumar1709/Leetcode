@@ -48,3 +48,4 @@ class Solution:
         
         # The final result is the only item left in the number stack
         return num_stack[0]
+
