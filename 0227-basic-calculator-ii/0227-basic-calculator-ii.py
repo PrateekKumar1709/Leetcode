@@ -48,22 +48,3 @@ class Solution:
         
         # The final result is the only item left in the number stack
         return num_stack[0]
-
-# Test cases
-solution = Solution()
-test_cases = [
-    "3+2*2",
-    " 3/2 ",
-    " 3+5 / 2 ",
-    "1-1+1",
-    "10+2*3+4*5",
-    "2-3+4",
-    " 0 ",
-    "1+1-1",
-    "2*3-4*5"
-]
-
-for test in test_cases:
-    print(f"Input: {test}")
-    print(f"Output: {solution.calculate(test)}")
-    print()
