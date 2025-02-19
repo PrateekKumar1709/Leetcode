@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/PrateekKumar1709/Leetcode/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/PrateekKumar1709/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/PrateekKumar1709/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/PrateekKumar1709/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/PrateekKumar1709/Leetcode/tree/master/0091-decode-ways) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrateekKumar1709/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/PrateekKumar1709/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/PrateekKumar1709/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekKumar1709/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PrateekKumar1709/Leetcode/tree/master/0198-house-robber) |
