@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/PrateekKumar1709/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/PrateekKumar1709/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PrateekKumar1709/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/PrateekKumar1709/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/PrateekKumar1709/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PrateekKumar1709/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
