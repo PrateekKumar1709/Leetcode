@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 | [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
+| [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2727-number-of-senior-citizens](https://github.com/PrateekKumar1709/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
+| [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 ## Hash Table
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/PrateekKumar1709/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
+| [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Linked List
 |  |
 | ------- |
