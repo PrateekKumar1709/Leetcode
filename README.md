@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0716-max-stack](https://github.com/PrateekKumar1709/Leetcode/tree/master/0716-max-stack) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
+| [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 ## Tree
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
+| [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2727-number-of-senior-citizens](https://github.com/PrateekKumar1709/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/PrateekKumar1709/Leetcode/tree/master/0146-lru-cache) |
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
 | [0716-max-stack](https://github.com/PrateekKumar1709/Leetcode/tree/master/0716-max-stack) |
+| [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
 ## Topological Sort
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/PrateekKumar1709/Leetcode/tree/master/0146-lru-cache) |
 | [0716-max-stack](https://github.com/PrateekKumar1709/Leetcode/tree/master/0716-max-stack) |
 | [0908-middle-of-the-linked-list](https://github.com/PrateekKumar1709/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/PrateekKumar1709/Leetcode/tree/master/0146-lru-cache) |
 | [0716-max-stack](https://github.com/PrateekKumar1709/Leetcode/tree/master/0716-max-stack) |
+| [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
 ## Ordered Set
 |  |
 | ------- |
@@ -264,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
+## Simulation
+|  |
+| ------- |
+| [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
 <!---LeetCode Topics End-->
