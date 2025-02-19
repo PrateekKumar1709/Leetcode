@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0716-max-stack](https://github.com/PrateekKumar1709/Leetcode/tree/master/0716-max-stack) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 ## Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2727-number-of-senior-citizens](https://github.com/PrateekKumar1709/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Graph
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/PrateekKumar1709/Leetcode/tree/master/0044-wildcard-matching) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 ## Doubly-Linked List
 |  |
 | ------- |
