@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0250-count-univalue-subtrees](https://github.com/PrateekKumar1709/Leetcode/tree/master/0250-count-univalue-subtrees) |
+| [0332-reconstruct-itinerary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
