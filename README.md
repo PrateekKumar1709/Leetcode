@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/PrateekKumar1709/Leetcode/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0716-max-stack](https://github.com/PrateekKumar1709/Leetcode/tree/master/0716-max-stack) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 | [2389-design-a-text-editor](https://github.com/PrateekKumar1709/Leetcode/tree/master/2389-design-a-text-editor) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0317-shortest-distance-from-all-buildings](https://github.com/PrateekKumar1709/Leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
+| [0503-next-greater-element-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0631-design-excel-sum-formula](https://github.com/PrateekKumar1709/Leetcode/tree/master/0631-design-excel-sum-formula) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekKumar1709/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
