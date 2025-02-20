@@ -1,43 +1,46 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        if not points or k <= 0:
-            return []
-            
-        def get_dist(point):
-            # Calculate squared distance from origin
-            return point[0] * point[0] + point[1] * point[1]
-            
-        def partition(left, right, pivot_idx):
-            pivot_dist = get_dist(points[pivot_idx])
-            # Move pivot to end
-            points[pivot_idx], points[right] = points[right], points[pivot_idx]
-            store_idx = left
-            
-            # Partition points based on distance
-            for i in range(left, right):
-                if get_dist(points[i]) < pivot_dist:
-                    points[i], points[store_idx] = points[store_idx], points[i]
-                    store_idx += 1
-                    
-            # Move pivot to final position
-            points[right], points[store_idx] = points[store_idx], points[right]
-            return store_idx
-            
-        def quick_select(left, right, k):
-            if left == right:
-                return
-                
-            # Choose random pivot
-            pivot_idx = random.randint(left, right)
-            pivot_idx = partition(left, right, pivot_idx)
-            
-            if pivot_idx == k:
-                return
-            elif pivot_idx < k:
-                quick_select(pivot_idx + 1, right, k)
+        return self.quick_select(points, k)
+    
+    def quick_select(self, points: List[List[int]], k: int) -> List[List[int]]:
+        """Perform the QuickSelect algorithm on the list"""
+        left, right = 0, len(points) - 1
+        pivot_index = len(points)
+        while pivot_index != k:
+            # Repeatedly partition the list
+            # while narrowing in on the kth element
+            pivot_index = self.partition(points, left, right)
+            if pivot_index < k:
+                left = pivot_index
             else:
-                quick_select(left, pivot_idx - 1, k)
-                
-        n = len(points)
-        quick_select(0, n-1, k)
+                right = pivot_index - 1
+        
+        # Return the first k elements of the partially sorted list
         return points[:k]
+    
+    def partition(self, points: List[List[int]], left: int, right: int) -> int:
+        """Partition the list around the pivot value"""
+        pivot = self.choose_pivot(points, left, right)
+        pivot_dist = self.squared_distance(pivot)
+        while left < right:
+            # Iterate through the range and swap elements to make sure
+            # that all points closer than the pivot are to the left
+            if self.squared_distance(points[left]) >= pivot_dist:
+                points[left], points[right] = points[right], points[left]
+                right -= 1
+            else:
+                left += 1
+        
+        # Ensure the left pointer is just past the end of
+        # the left range then return it as the new pivotIndex
+        if self.squared_distance(points[left]) < pivot_dist:
+            left += 1
+        return left
+    
+    def choose_pivot(self, points: List[List[int]], left: int, right: int) -> List[int]:
+        """Choose a pivot element of the list"""
+        return points[left + (right - left) // 2]
+    
+    def squared_distance(self, point: List[int]) -> int:
+        """Calculate and return the squared Euclidean distance."""
+        return point[0] ** 2 + point[1] ** 2
