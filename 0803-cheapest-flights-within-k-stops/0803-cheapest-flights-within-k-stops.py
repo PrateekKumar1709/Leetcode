@@ -1,28 +1,22 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-        # Initialize distances array with infinity
-        # distances[i] represents min cost to reach city i
-        distances = [float('inf')] * n
-        distances[src] = 0
+        # Initialize dp array with infinity
+        # dp[i][j] represents min cost to reach city j using i stops
+        dp = [[float('inf')] * n for _ in range(k + 2)]
+        dp[0][src] = 0
         
-        # For each level of stops (k+1 iterations for k stops)
-        for i in range(k + 1):
-            # Create temp array to store new distances
-            # This prevents using a path with more stops in current iteration
-            temp = distances.copy()
+        # For each number of stops
+        for i in range(1, k + 2):
+            # Copy previous state
+            dp[i][src] = 0
             
-            # Check all flights
+            # For each flight
             for from_city, to_city, price in flights:
-                # If source city is reachable
-                if distances[from_city] != float('inf'):
+                # If we can reach the from_city
+                if dp[i-1][from_city] != float('inf'):
                     # Update minimum cost to reach to_city
-                    temp[to_city] = min(
-                        temp[to_city],
-                        distances[from_city] + price
-                    )
-            
-            # Update distances for next iteration
-            distances = temp
+                    dp[i][to_city] = min(dp[i][to_city], 
+                                       dp[i-1][from_city] + price)
         
-        # Return -1 if destination not reachable, else return cost
-        return distances[dst] if distances[dst] != float('inf') else -1
+        # Return result if path exists, else -1
+        return dp[k+1][dst] if dp[k+1][dst] != float('inf') else -1
