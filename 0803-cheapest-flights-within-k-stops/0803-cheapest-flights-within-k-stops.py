@@ -1,25 +1,18 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-        INF = float('inf')
-        prices = [INF] * n
-        prices[src] = 0
+        # Initialize distances with infinity
+        dist = [math.inf] * n
+        dist[src] = 0
         
-        # We need k+1 iterations since k stops means k+1 edges
-        for i in range(k + 1):
-            # Create a temporary array to store updates
-            temp_prices = prices.copy()
-            
-            # Check each flight
+        # Perform Bellman-Ford for at most k+1 iterations
+        for _ in range(k + 1):
+            # Temporary copy of distances
+            temp_dist = dist[:]
             for from_city, to_city, price in flights:
-                # If source city is reachable
-                if prices[from_city] != INF:
-                    # Update price if we find a cheaper path
-                    temp_prices[to_city] = min(
-                        temp_prices[to_city], 
-                        prices[from_city] + price
-                    )
-            
-            prices = temp_prices
+                # Only update if we can reach from_city
+                if dist[from_city] != math.inf:
+                    temp_dist[to_city] = min(temp_dist[to_city], dist[from_city] + price)
+            # Update distances
+            dist = temp_dist
         
-        # Return -1 if destination is unreachable, else return the price
-        return -1 if prices[dst] == INF else prices[dst]
+        return -1 if dist[dst] == math.inf else dist[dst]
