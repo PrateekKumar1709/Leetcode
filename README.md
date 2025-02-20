@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0971-shortest-bridge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0971-shortest-bridge) |
+| [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1138-grumpy-bookstore-owner](https://github.com/PrateekKumar1709/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/PrateekKumar1709/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekKumar1709/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekKumar1709/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
+| [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrateekKumar1709/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
+| [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1610-xor-operation-in-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Bit Manipulation
@@ -317,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
