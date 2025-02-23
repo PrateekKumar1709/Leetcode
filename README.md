@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1488-sort-integers-by-the-power-value](https://github.com/PrateekKumar1709/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1488-sort-integers-by-the-power-value](https://github.com/PrateekKumar1709/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/PrateekKumar1709/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
