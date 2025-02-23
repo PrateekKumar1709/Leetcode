@@ -1,20 +1,33 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
-        def backtrack(curr: str):
-            # Base case: if current string length equals n
-            if len(curr) == n:
-                result.append(curr)
-                return
-            
-            # Try adding each possible character
-            for c in ['a', 'b', 'c']:
-                # Skip if current char matches last char
-                if curr and curr[-1] == c:
-                    continue
-                backtrack(curr + c)
+        # Calculate total possible strings
+        total = 3 * (2 ** (n-1))
         
+        # If k is larger than possible strings, return empty
+        if k > total:
+            return ""
+        
+        # Adjust k to 0-based indexing
+        k -= 1
+        
+        # Initialize result string
         result = []
-        backtrack("")
         
-        # Return kth string if exists, empty string otherwise
-        return result[k-1] if k <= len(result) else ""
+        # Find first character
+        first_char = chr(ord('a') + k // (2 ** (n-1)))
+        result.append(first_char)
+        k %= (2 ** (n-1))
+        
+        # Fill remaining positions
+        for i in range(n-1):
+            # Get available choices (excluding last used character)
+            choices = ['a', 'b', 'c']
+            choices.remove(result[-1])
+            
+            # Calculate which choice to use
+            idx = k // (2 ** (n-2-i))
+            result.append(choices[idx])
+            k %= (2 ** (n-2-i))
+        
+        return ''.join(result)
+
