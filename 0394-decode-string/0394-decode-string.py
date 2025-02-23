@@ -1,27 +1,27 @@
 class Solution:
     def decodeString(self, s: str) -> str:
         stack = []
-        curr_num = 0
-        curr_str = ''
+        currNum = 0
+        currString = ''
         
-        # Iterate through each character in the input string
+        # Iterate through each character in the string
         for c in s:
-            # If the character is a digit, update the current number
+            # If the character is a digit, accumulate it to form the count
             if c.isdigit():
-                curr_num = curr_num * 10 + int(c)
-            # If the character is a letter, append it to the current string
-            elif c.isalpha():
-                curr_str += c
-            # If the character is '[', push the current string and number onto the stack
+                currNum = currNum * 10 + int(c)
+            # If the character is '[', push the current string and count onto the stack, reset both
             elif c == '[':
-                stack.append(curr_str)
-                stack.append(curr_num)
-                curr_str = ''
-                curr_num = 0
-            # If the character is ']', pop from the stack and repeat the current string
+                stack.append(currString)
+                stack.append(currNum)
+                currString = ''
+                currNum = 0
+            # If the character is ']', pop the previous string and count from the stack, repeat the current string that many times, and append it to the previous string
             elif c == ']':
                 num = stack.pop()
-                prev_str = stack.pop()
-                curr_str = prev_str + num * curr_str
+                prevString = stack.pop()
+                currString = prevString + num * currString
+            # If the character is a letter, add it to the current string
+            else:
+                currString += c
         
-        return curr_str
+        return currString
