@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrateekKumar1709/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekKumar1709/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/PrateekKumar1709/Leetcode/tree/master/0198-house-robber) |
 | [0269-alien-dictionary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0269-alien-dictionary) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PrateekKumar1709/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PrateekKumar1709/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/PrateekKumar1709/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/PrateekKumar1709/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekKumar1709/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
 ## Simulation
