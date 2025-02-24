@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/PrateekKumar1709/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/PrateekKumar1709/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PrateekKumar1709/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PrateekKumar1709/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PrateekKumar1709/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/PrateekKumar1709/Leetcode/tree/master/1272-invalid-transactions) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PrateekKumar1709/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PrateekKumar1709/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PrateekKumar1709/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/PrateekKumar1709/Leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 ## Hash Table
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/PrateekKumar1709/Leetcode/tree/master/1272-invalid-transactions) |
 | [1364-tuple-with-same-product](https://github.com/PrateekKumar1709/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2405-minimum-number-of-keypresses](https://github.com/PrateekKumar1709/Leetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PrateekKumar1709/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/PrateekKumar1709/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
