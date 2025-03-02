@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrateekKumar1709/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/PrateekKumar1709/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/PrateekKumar1709/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Backtracking
 |  |
