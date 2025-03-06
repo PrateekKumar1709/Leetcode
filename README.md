@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0250-count-univalue-subtrees](https://github.com/PrateekKumar1709/Leetcode/tree/master/0250-count-univalue-subtrees) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 ## Depth-First Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0250-count-univalue-subtrees](https://github.com/PrateekKumar1709/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0269-alien-dictionary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0269-alien-dictionary) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0250-count-univalue-subtrees](https://github.com/PrateekKumar1709/Leetcode/tree/master/0250-count-univalue-subtrees) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1736-build-binary-expression-tree-from-infix-expression](https://github.com/PrateekKumar1709/Leetcode/tree/master/1736-build-binary-expression-tree-from-infix-expression) |
 ## Breadth-First Search
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PrateekKumar1709/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0269-alien-dictionary) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/PrateekKumar1709/Leetcode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PrateekKumar1709/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekKumar1709/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/PrateekKumar1709/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/PrateekKumar1709/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekKumar1709/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/1256-rank-transform-of-an-array) |
