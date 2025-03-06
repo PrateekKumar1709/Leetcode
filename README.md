@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0269-alien-dictionary) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0386-lexicographical-numbers](https://github.com/PrateekKumar1709/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/PrateekKumar1709/Leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/PrateekKumar1709/Leetcode/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrateekKumar1709/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -383,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/PrateekKumar1709/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/PrateekKumar1709/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
