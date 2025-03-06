@@ -1,18 +1,13 @@
 class Solution:
     def getKth(self, lo: int, hi: int, k: int) -> int:
-        @cache
-        def f(x):
-            if x == 1:
-                return 0
-            if not x % 2:
-                return 1 + f(x//2)
-            else:
-                return 1 + f(3*x + 1)
+        def power_value(x):
+            steps = 0
+            while x != 1:
+                if x % 2 == 0:
+                    x //= 2
+                else:
+                    x = 3 * x + 1
+                steps += 1
+            return steps
 
-        res = []
-        for i in range(lo,hi + 1):
-            res.append((i,f(i)))
-        
-        res.sort(key = lambda x:x[1])
-
-        return res[k-1][0]       
+        return sorted(range(lo, hi+1), key=lambda x: (power_value(x), x))[k-1]
