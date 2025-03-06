@@ -1,32 +1,22 @@
-from heapq import heappush, heappop
-class Solution:
-    def getKth(self, lo: int, hi: int, k: int) -> int:
 
-        # Cache for memoization
-        memo = {}
-        
-        def calculate_power(x: int) -> int:
-            if x == 1:
-                return 0
-            if x in memo:
-                return memo[x]
-                
+class Solution:
+    def calculate_power(self, x):
+        steps = 0
+        while x != 1:
             if x % 2 == 0:
-                steps = 1 + calculate_power(x // 2)
+                x //= 2
             else:
-                steps = 1 + calculate_power(3 * x + 1)
-                
-            memo[x] = steps
-            return steps
+                x = 3 * x + 1
+            steps += 1
+        return steps
+
+    def getKth(self, lo: int, hi: int, k: int) -> int:
+        # Calculate power values for all integers in the range
+        power_values = [(x, self.calculate_power(x)) for x in range(lo, hi + 1)]
         
-        # Use min heap to maintain k smallest elements
-        heap = []
-        for num in range(lo, hi + 1):
-            power = calculate_power(num)
-            heappush(heap, (power, num))
+        # Sort the integers by their power values in ascending order
+        # If two integers have the same power value, sort them by their integer value
+        sorted_power_values = sorted(power_values, key=lambda x: (x[1], x[0]))
         
-        # Pop k-1 elements to get kth element
-        for _ in range(k-1):
-            heappop(heap)
-        
-        return heappop(heap)[1]
+        # Return the kth integer
+        return sorted_power_values[k - 1][0]
