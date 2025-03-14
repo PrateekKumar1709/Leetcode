@@ -1,3 +1,5 @@
+from functools import cache
+
 class Solution:
     def getKth(self, lo: int, hi: int, k: int) -> int:
         @cache
@@ -10,9 +12,9 @@ class Solution:
                 return 1 + f(3*x + 1)
 
         res = []
-        for i in range(lo,hi + 1):
-            res.append((i,f(i)))
+        for i in range(lo, hi + 1):
+            res.append((i, f(i)))
         
-        res.sort(key = lambda x:x[1])
+        res.sort(key=lambda x: x[1])
 
-        return res[k-1][0]       
+        return res[k-1][0]
