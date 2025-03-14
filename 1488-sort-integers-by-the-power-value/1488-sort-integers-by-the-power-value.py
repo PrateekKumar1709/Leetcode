@@ -1,20 +1,18 @@
 class Solution:
-    def calculate_power(self, x):
-        steps = 0
-        while x != 1:
-            if x % 2 == 0:
-                x //= 2
-            else:
-                x = 3 * x + 1
-            steps += 1
-        return steps
-        
     def getKth(self, lo: int, hi: int, k: int) -> int:
-        # Generate list of (integer, power) pairs
-        power_list = [(x, self.calculate_power(x)) for x in range(lo, hi + 1)]
+        @cache
+        def f(x):
+            if x == 1:
+                return 0
+            if not x % 2:
+                return 1 + f(x//2)
+            else:
+                return 1 + f(3*x + 1)
+
+        res = []
+        for i in range(lo,hi + 1):
+            res.append((i,f(i)))
         
-        # Sort by power value first, then by integer value
-        power_list.sort(key=lambda item: (item[1], item[0]))
-        
-        # Return the kth integer (1-based index)
-        return power_list[k - 1][0]
+        res.sort(key = lambda x:x[1])
+
+        return res[k-1][0]       
