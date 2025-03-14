@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrateekKumar1709/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekKumar1709/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/PrateekKumar1709/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PrateekKumar1709/Leetcode/tree/master/0200-number-of-islands) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/PrateekKumar1709/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/PrateekKumar1709/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/PrateekKumar1709/Leetcode/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0140-word-break-ii) |
 | [0227-basic-calculator-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0269-alien-dictionary](https://github.com/PrateekKumar1709/Leetcode/tree/master/0269-alien-dictionary) |
 | [0394-decode-string](https://github.com/PrateekKumar1709/Leetcode/tree/master/0394-decode-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/PrateekKumar1709/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekKumar1709/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PrateekKumar1709/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/PrateekKumar1709/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PrateekKumar1709/Leetcode/tree/master/0322-coin-change) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/PrateekKumar1709/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/PrateekKumar1709/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/PrateekKumar1709/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/PrateekKumar1709/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/PrateekKumar1709/Leetcode/tree/master/0169-majority-element) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/PrateekKumar1709/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrateekKumar1709/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/PrateekKumar1709/Leetcode/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0140-word-break-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PrateekKumar1709/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Prefix Sum
 |  |
@@ -385,9 +390,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0140-word-break-ii) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PrateekKumar1709/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/PrateekKumar1709/Leetcode/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/PrateekKumar1709/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
