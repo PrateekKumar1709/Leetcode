@@ -1,40 +1,27 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        if endWord not in wordList:
+        wordSet = set(wordList)  # Convert wordList to a set for O(1) lookups
+        if endWord not in wordSet:
             return 0
-        
-        # Create a set for O(1) lookup
-        wordSet = set(wordList)
-        
-        # Create pattern to word mapping
-        # For example, for "hit": "*it", "h*t", "hi*"
-        pattern_map = defaultdict(list)
-        word_len = len(beginWord)
-        
-        # Build pattern map for all words including beginWord
-        for word in wordList:
-            for i in range(word_len):
-                pattern = word[:i] + '*' + word[i+1:]
-                pattern_map[pattern].append(word)
-        
-        # BFS queue with word and level
-        queue = deque([(beginWord, 1)])
-        visited = {beginWord}  # Track visited words
-        
+
+        # Initialize BFS
+        queue = deque([(beginWord, 1)])  # (current_word, transformation_steps)
+
         while queue:
-            current_word, level = queue.popleft()
-            
-            # Generate all possible patterns for current word
-            for i in range(word_len):
-                pattern = current_word[:i] + '*' + current_word[i+1:]
-                
-                # Check all words matching this pattern
-                for next_word in pattern_map[pattern]:
+            current_word, steps = queue.popleft()
+
+            # Try changing each letter in the current word
+            for i in range(len(current_word)):
+                for char in 'abcdefghijklmnopqrstuvwxyz':
+                    next_word = current_word[:i] + char + current_word[i+1:]
+
+                    # If the next word is the endWord, return the steps + 1
                     if next_word == endWord:
-                        return level + 1
-                    
-                    if next_word not in visited:
-                        visited.add(next_word)
-                        queue.append((next_word, level + 1))
-        
-        return 0
+                        return steps + 1
+
+                    # If the next word is in the wordSet, add it to the queue and remove from the set
+                    if next_word in wordSet:
+                        wordSet.remove(next_word)
+                        queue.append((next_word, steps + 1))
+
+        return 0  # If no transformation sequence is found
