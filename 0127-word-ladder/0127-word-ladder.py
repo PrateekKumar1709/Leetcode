@@ -1,27 +1,86 @@
-class Solution:
-    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        wordSet = set(wordList)  # Convert wordList to a set for O(1) lookups
-        if endWord not in wordSet:
+from collections import defaultdict
+
+
+class Solution(object):
+    def __init__(self):
+        self.length: int = 0
+        # Dictionary to hold combination of words that can be formed,
+        # from any given word. By changing one letter at a time.
+        self.all_combo_dict: Dict[str, List[str]] = defaultdict(list)
+
+    def visitWordNode(
+        self,
+        queue: Deque[str],
+        visited: Dict[str, int],
+        others_visited: Dict[str, int],
+    ) -> Any:
+        queue_size: int = len(queue)
+        for _ in range(queue_size):
+            current_word: str = queue.popleft()
+            for i in range(self.length):
+                # Intermediate words for current word
+                intermediate_word: str = (
+                    current_word[:i] + "*" + current_word[i + 1 :]
+                )
+
+                # Next states are all the words which share the same intermediate state.
+                for word in self.all_combo_dict[intermediate_word]:
+                    # If the intermediate state/word has already been visited from the
+                    # other parallel traversal this means we have found the answer.
+                    if word in others_visited:
+                        return visited[current_word] + others_visited[word]
+                    if word not in visited:
+                        # Save the level as the value of the dictionary, to save number of hops.
+                        visited[word] = visited[current_word] + 1
+                        queue.append(word)
+
+        return None
+
+    def ladderLength(
+        self, beginWord: str, endWord: str, wordList: List[str]
+    ) -> int:
+        if (
+            endWord not in wordList
+            or not endWord
+            or not beginWord
+            or not wordList
+        ):
             return 0
 
-        # Initialize BFS
-        queue = deque([(beginWord, 1)])  # (current_word, transformation_steps)
+        # Since all words are of same length.
+        self.length = len(beginWord)
 
-        while queue:
-            current_word, steps = queue.popleft()
+        for word in wordList:
+            for i in range(self.length):
+                # Key is the generic word
+                # Value is a list of words which have the same intermediate generic word.
+                self.all_combo_dict[word[:i] + "*" + word[i + 1 :]].append(word)
 
-            # Try changing each letter in the current word
-            for i in range(len(current_word)):
-                for char in 'abcdefghijklmnopqrstuvwxyz':
-                    next_word = current_word[:i] + char + current_word[i+1:]
+        # Queues for birdirectional BFS
+        queue_begin: Deque[str] = collections.deque(
+            [beginWord]
+        )  # BFS starting from beginWord
+        queue_end: Deque[str] = collections.deque(
+            [endWord]
+        )  # BFS starting from endWord
 
-                    # If the next word is the endWord, return the steps + 1
-                    if next_word == endWord:
-                        return steps + 1
+        # Visited to make sure we don't repeat processing same word
+        visited_begin: Dict[str, int] = {beginWord: 1}
+        visited_end: Dict[str, int] = {endWord: 1}
+        ans: Any = None
 
-                    # If the next word is in the wordSet, add it to the queue and remove from the set
-                    if next_word in wordSet:
-                        wordSet.remove(next_word)
-                        queue.append((next_word, steps + 1))
+        # We do a birdirectional search starting one pointer from begin
+        # word and one pointer from end word. Hopping one by one.
+        while queue_begin and queue_end:
 
-        return 0  # If no transformation sequence is found
+            # Progress forward one step from the shorter queue
+            if len(queue_begin) <= len(queue_end):
+                ans = self.visitWordNode(
+                    queue_begin, visited_begin, visited_end
+                )
+            else:
+                ans = self.visitWordNode(queue_end, visited_end, visited_begin)
+            if ans:
+                return ans
+
+        return 0
